@@ -1,9 +1,9 @@
-# Bootcamp teste de API
+# Bootcamp teste de API utilizando o newman
 Teste de API Rest do manual a CI/CD 
 
 
 ## O que é:
-Este repositório foi criado para o bootcamp de Teste de API Rest. 
+Este repositório foi criado como parte do bootcamp de Teste de API Rest. Automatizei os testes utilizando Newman, uma ferramenta que executa os testes via linha de comando, e também implementei a geração de relatórios das execuções automatizadas.
 
 ## Tecnologias utilizadas
 - Postman versão web
