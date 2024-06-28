@@ -1,5 +1,6 @@
 # Bootcamp teste de API utilizando o newman
 Teste de API Rest do manual a CI/CD 
+![image](https://github.com/EdenilsonAlves/serveRest-API/assets/98066667/194e81fd-8d4c-449d-ab28-eed46ca94c34)
 
 
 ## O que é:
